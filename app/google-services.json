@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "125431631995",
+    "project_id": "powerful-loader-396413",
+    "storage_bucket": "powerful-loader-396413.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125431631995:android:db26a1b786712df12792de",
+        "android_client_info": {
+          "package_name": "com.example.todoapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn6GPjwwZnreHEhFJ8ZPmZGwUWNX_kwwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
